@@ -14,7 +14,7 @@
 - You can check it out on [itch.io](https://soup-o-stat.itch.io/mondealy-mod-installer) and [Nexusmods](https://www.nexusmods.com/mondealy/mods/3).
 
 ### **Economic Biathlon**
-- **What is it?** Economic Biathlon is an educational game developed by SNO "STUDIO INOVA" for RTU MIREA students (and potentially others, depending on contract agreements 😂). The game is part of the "Economic Culture" curriculum. I’m no longer actively working on it.
+- **What is it?** Economic Biathlon is an educational game developed by SNO "STUDIO INOVA" for RTU MIREA students (and potentially others, depending on contract agreements xddd). The game is part of the "Economic Culture" curriculum. I’m no longer actively working on it.
 - You can try it on [itch.io](https://soup-o-stat.itch.io/economic-biathlon).
 
 ### **Mods**
