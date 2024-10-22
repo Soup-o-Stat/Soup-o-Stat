@@ -31,7 +31,7 @@
 ---
 
 ### **Games**
-- **What about games?**: Currently, my main engine is Godot Engine 4. I used to work with GameMaker Studio 2 and pygame (I still use pygame, but not for game projects right now). I'm also developing a game called **Life as Student MEMREA**, a satirical take on MIREA life with memes and classic stereotypes.
+- **What about games?**: Currently, my main engine is Godot Engine 4. I used to work with GameMaker Studio 2 and pygame (I still use pygame, but not for game projects right now)
 
 ---
 
