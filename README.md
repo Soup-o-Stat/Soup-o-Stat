@@ -26,7 +26,7 @@
 ---
 
 ### **RTU MIREA Assignment Solutions**
-- **What are these?**: In my repositories, I share solutions for assignments from courses like [OOP](https://github.com/Soup-o-Stat/aco-avrora-2024), [AI](https://github.com/Soup-o-Stat/ai-mirea-2024), [Theory of Formal Languages](https://github.com/Soup-o-Stat/theory_of_formal_languages_mirea), and [Java Programming](https://github.com/Soup-o-Stat/java_mirea). You can find the full list in my repositories.
+- **What are these?**: Due to the fact that I felt that some people were too arrogant, I hid all the repositories with solved tasks. Have fun!
 
 ---
 
