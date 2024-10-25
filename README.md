@@ -25,7 +25,7 @@
 
 ---
 
-### **RTU MIREA Assignment Solutions**
+### **RTU MIREA Solved Tasks**
 - **What are these?**: Due to the fact that I felt that some people were too arrogant, I hid all the repositories with solved tasks. Have fun!
 
 ---
