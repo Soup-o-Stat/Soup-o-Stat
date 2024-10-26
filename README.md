@@ -37,6 +37,10 @@
 
 ---
 
+### **Contacts***
+- **How you can contact me?**: you can contact me via [Email](mr.drk.knght@gmail.com), [Telegram](https://t.me/michael_nerd), [VK](https://vk.com/michael_nerd) or [Reddit](https://www.reddit.com/user/realSoup-o-Stat/)
+
+---
 ## Epic Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soup-o-Stat&hide_progress=truetheme=calm)
