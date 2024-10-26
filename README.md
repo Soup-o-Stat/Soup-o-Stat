@@ -3,7 +3,7 @@
 ![](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/epic_gif.gif)
 
 ### About Me:
-- **Who am I?**: My name is Michael, I'm 19 years old, and I live in Moscow. I study at RTU MIREA and have worked as a programmer and head of app development at SNO "STUDIO INOVA."
+- **Who am I?**: My name is Michael, I'm 19 years old, and I live in Moscow. I study at RTU MIREA and have worked as a programmer and head of Application Development Department at SNO "STUDIO INOVA."
 - **What I do**: I create small programs for games, jokes, and more. I also develop games and mods.
 - **Languages I've worked with**: I have experience with Python, C++, Java, GDScript, GML, and SQL. Currently, I'm learning 1C, Rust, and Lua.
 
