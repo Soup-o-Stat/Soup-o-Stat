@@ -37,7 +37,7 @@
 
 ---
 
-## Things You Probably Won't Remember
+## Epic Stats
 
-- **Favorite game**: The Binding of Isaac: Rebirth.
-- **Favorite music**: I don’t have a specific favorite genre, but I love video game soundtracks, especially the works of Ridiculon.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soup-o-Stat&hide_progress=truetheme=calm)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Soup-o-Stat\&rank_icon=github)
