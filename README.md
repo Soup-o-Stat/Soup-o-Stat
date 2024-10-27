@@ -6,8 +6,6 @@
 - **Who am I?**: My name is Michael, I'm 19 years old, and I live in Moscow. I study at RTU MIREA and have worked as a programmer and head of Application Development Department at SNO "STUDIO INOVA."
 - **What I do**: I create small programs for games, jokes, and more. I also develop games and mods.
 - **Languages I've worked with**: I have experience with Python, C++, Java, GDScript, GML, and SQL. Currently, I'm learning 1C, Rust, and Lua.
-
-<img height="50" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png"> <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"> <img height="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png"> <img height="50" src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png">
 ---
 
 ## My Projects:
