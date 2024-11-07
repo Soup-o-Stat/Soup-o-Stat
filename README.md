@@ -38,3 +38,7 @@
 
 ### **Contacts**
 - **How you can contact me?**: you can contact me via Email (mr.drk.knght@gmail.com), [Telegram](https://t.me/michael_nerd), [VK](https://vk.com/michael_nerd) or [Reddit](https://www.reddit.com/user/realSoup-o-Stat/)
+
+---
+### **My Achievements**
+- **Patent for economic biathlon**: [click](https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=14CEFEEF-A8D2-4F83-9308-FECBAE526898)
