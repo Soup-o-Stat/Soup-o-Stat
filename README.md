@@ -33,7 +33,9 @@
 ---
 
 ### **Games**
-- **What about games?**: Currently, my main engine is Godot Engine 4. I used to work with GameMaker Studio 2 and pygame (I still use pygame, but not for game projects right now)
+- **Life as Student MEMREA**: I worked on Life as a Student MEMREA as a programmer, game designer, screenwriter and sounddesigner. At the moment, the project has been canceled due to legal shit
+- **Economic Biathlon**: I worked on this game as a programmer (I even managed to work as a project manager). I am not working with this project at the moment
+- **Symphony of Destruction**: I worked on this project as a programmer and sounddesigner as part of a gamejam from VK Play, RuStore, VK Education and MIREA. This project took the fourth place out of 35
 
 ---
 
