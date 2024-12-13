@@ -45,4 +45,5 @@
 ---
 ### **My Achievements**
 - **Patent for economic biathlon**: [click](https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=14CEFEEF-A8D2-4F83-9308-FECBAE526898)
+- **Gratitude from RTU MIREA for developing the game "Economic Biathlon"**: [click]()
 - **Gamejam winner's certificate from VK Play, RuStore, VK Education, MIREA (4th place)**: [click](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/%D0%A1%D0%95%D0%A0%D0%A2%D0%98%D0%A4%D0%98%D0%9A%D0%90%D0%A2-11.png)
