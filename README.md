@@ -36,11 +36,12 @@
 - **Life as Student MEMREA**: I worked on Life as a Student MEMREA as a programmer, game designer, screenwriter and sounddesigner. At the moment, the project has been canceled due to legal shit
 - **Economic Biathlon**: I worked on this game as a programmer (I even managed to work as a project manager). I am not working with this project at the moment
 - **Symphony of Destruction**: I worked on this project as a programmer and sounddesigner as part of a gamejam from VK Play, RuStore, VK Education and MIREA. This project took the fourth place out of 35
+- **Screen Duck**: With this program, you can now have a real digital duck living on your desktop! It’s available for download on [itch.io](https://soup-o-stat.itch.io/screen-duck), and you can check out the source code [here](https://github.com/Soup-o-Stat/Screen-Duck)
 
 ---
 
 ### **Contacts**
-- **How you can contact me?**: you can contact me via Email (mr.drk.knght@gmail.com), [Telegram](https://t.me/michael_nerd), [VK](https://vk.com/michael_nerd) or [Reddit](https://www.reddit.com/user/realSoup-o-Stat/)
+- **How you can contact me?**: you can contact me via Email (mr.drk.knght@gmail.com), [Telegram](https://t.me/soup_o_stat), [VK](https://vk.com/soup_o_stat) or [Reddit](https://www.reddit.com/user/realSoup-o-Stat/)
 
 ---
 ### **My Achievements**
