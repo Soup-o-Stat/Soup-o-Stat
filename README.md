@@ -24,6 +24,7 @@
 - - **Mondealy**: I created mods like [Bald Michael Mod](https://www.nexusmods.com/mondealy/mods/4), [Ballin Music Mod](https://www.nexusmods.com/mondealy/mods/5), and [Project Mondealy Zomboid](https://www.nexusmods.com/mondealy/mods/6).
 - - **The Binding of Isaac: Rebirth**: I made the mod [Neonomi and Rockets Intro](https://steamcommunity.com/sharedfiles/filedetails/?id=3278955604).
 - - **Half Life 2**: I made the mod [Kikoriki Valve Intro!!!](https://steamcommunity.com/sharedfiles/filedetails/?id=3368442482).
+- - **Madness: Project Nexus**: I made [Madness Combat 12 OST in Main Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=3428043862)
 
 ---
 
