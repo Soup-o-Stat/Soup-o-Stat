@@ -12,7 +12,7 @@
 
 ### **MPN: GUI Workshop Uploader**
 - **What is it?** MPN: GUI Workshop Uploader is a utility for easily uploading and updating mods in Steam Workshop for [MADNESS: Project Nexus](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/).
-- You can check it out on [itch.io](https://soup-o-stat.itch.io/).
+- You can check it out on [itch.io](https://soup-o-stat.itch.io/mpn-gui-workshop-uploader).
 
 ### **Mondealy Mod Installer**
 - **What is it?** Mondealy Mod Installer is a utility for easily installing mods for [Mondealy](https://store.steampowered.com/app/1620520/Mondealy/).
