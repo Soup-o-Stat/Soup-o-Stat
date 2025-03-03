@@ -46,7 +46,7 @@
 ---
 
 ### **Contacts**
-- **How you can contact me?**: you can contact me via Email (mr.drk.knght@gmail.com), [Telegram](https://t.me/soup_o_stat), [VK](https://vk.com/soup_o_stat) or [Reddit](https://www.reddit.com/user/realSoup-o-Stat/)
+- **How you can contact me?**: you can contact me via Email (mr.drk.knght@gmail.com), [Telegram](https://t.me/soup_o_stat), [VK](https://vk.com/soup_o_stat), [Reddit](https://www.reddit.com/user/realSoup-o-Stat/) or [X (Twitter)](https://x.com/soup_o_stat?s=09)
 
 ---
 ### **My Achievements**
