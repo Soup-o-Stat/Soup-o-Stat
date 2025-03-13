@@ -14,6 +14,10 @@
 - **What is it?** MPN: GUI Workshop Uploader is a utility for easily uploading and updating mods in Steam Workshop for [MADNESS: Project Nexus](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/).
 - You can check it out on [itch.io](https://soup-o-stat.itch.io/mpn-gui-workshop-uploader).
 
+### **WEBSAVING**
+- **What is it?** WEBAVIBG is a tool designed to help players of [WEBFISHING](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/) easily synchronize their save files with a GitHub repository.
+- You can check it out on [GitHub](https://github.com/Soup-o-Stat/WEBSAVING).
+
 ### **Mondealy Mod Installer**
 - **What is it?** Mondealy Mod Installer is a utility for easily installing mods for [Mondealy](https://store.steampowered.com/app/1620520/Mondealy/).
 - You can check it out on [itch.io](https://soup-o-stat.itch.io/mondealy-mod-installer) and [Nexusmods](https://www.nexusmods.com/mondealy/mods/3).
