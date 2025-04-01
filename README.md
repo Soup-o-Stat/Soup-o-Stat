@@ -12,7 +12,7 @@
 
 ### **MPN: GUI Workshop Uploader**
 - **What is it?** MPN: GUI Workshop Uploader is a utility for easily uploading and updating mods in Steam Workshop for [MADNESS: Project Nexus](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/).
-- You can check it out on [itch.io](https://soup-o-stat.itch.io/mpn-gui-workshop-uploader).
+- You can try it out on [itch.io](https://soup-o-stat.itch.io/mpn-gui-workshop-uploader) and check source code [here](https://github.com/Soup-o-Stat/MPN-GUI-Workshop-Uploader).
 
 ### **WEBSAVING**
 - **What is it?** WEBAVIBG is a tool designed to help players of [WEBFISHING](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/) easily synchronize their save files with a GitHub repository.
@@ -33,11 +33,6 @@
 - - **The Binding of Isaac: Rebirth**: I made the mod [Neonomi and Rockets Intro](https://steamcommunity.com/sharedfiles/filedetails/?id=3278955604).
 - - **Half Life 2**: I made the mod [Kikoriki Valve Intro!!!](https://steamcommunity.com/sharedfiles/filedetails/?id=3368442482).
 - - **Madness: Project Nexus**: I made [Madness Combat 12 OST in Main Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=3428043862)
-
----
-
-### **RTU MIREA Solved Tasks**
-- **What are these?**: Check out my repositories!
 
 ---
 
