@@ -45,7 +45,7 @@
 ---
 
 ### **Contacts**
-- *Email (mr.drk.knght@gmail.com)
+- [Email](mr.drk.knght@gmail.com)
 - [Telegram](https://t.me/soup_o_stat)
 - [VK](https://vk.com/soup_o_stat)
 - [Reddit](https://www.reddit.com/user/realSoup-o-Stat/) (I don't think I'll read your message there.)
