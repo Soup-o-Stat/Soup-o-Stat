@@ -45,6 +45,14 @@
 
 ---
 
+### **Non game projects that you can find in my repositories**
+- **Bluesky JSON Parser** - CLI tool to fetch and display Bluesky user profiles 
+- **Winamp-Fixer** - Fix tool for Winamp
+- **LVM IntAss** - Assembler and Interpreter for a learning virtual machine (LVM)
+- **JetBrains Reset Tool** - JetBrains trial reset tool on python
+- **Banana Farmer 3000** - program for banana farm in game "Banana"
+- **JSONomicon** - CLI tool for converting configuration files to JSON with syntax error detection
+
 ### **Contacts**
 - [Email](mr.drk.knght@gmail.com)
 - [X (Twitter)](https://x.com/soup_o_stat) (I don't think I'll read your message there)
