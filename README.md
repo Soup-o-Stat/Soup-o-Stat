@@ -48,6 +48,7 @@
 - **JetBrains Reset Tool** - JetBrains trial reset tool on python
 - **Banana Farmer 3000** - program for banana farm in game "Banana"
 - **JSONomicon** - CLI tool for converting configuration files to JSON with syntax error detection
+- **Snosyashka** - A Python script for automatically sending email complaints to Telegram support about abusive users, groups, or channels
 
 ### **Contacts**
 - [Email](mr.drk.knght@gmail.com)
