@@ -16,7 +16,7 @@
 - **Banana Farmer 3000** - program for banana farm in game "Banana"
 
 ### **Games**
-- **Life as Student MEMREA**: I worked on Life as a Student MEMREA as a programmer, game designer, screenwriter and sounddesigner. At the moment, the project has been canceled due to legal shit
+- **Life as Student MEMREA**: I worked on Life as a Student MEMREA as a programmer, game designer, leveldesigner and sounddesigner. At the moment, the project has been canceled due to legal shit. You can try it on [Itchio](https://rekuiemuu.itch.io/symphony-of-destruction)
 - **Economic Biathlon**: I worked on this game as a programmer (I even managed to work as a project manager). I am not working with this project at the moment
 - **Symphony of Destruction**: I worked on this project as a programmer and sounddesigner as part of a gamejam from VK Play, RuStore, VK Education and MIREA. This project took the 4th place
 - **Screen Duck**: With this program, you can now have a real digital duck living on your desktop! It’s available for download on [itch.io](https://soup-o-stat.itch.io/screen-duck), and you can check out the source code [here](https://github.com/Soup-o-Stat/Screen-Duck)
