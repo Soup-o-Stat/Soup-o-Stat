@@ -49,6 +49,7 @@
 - **Banana Farmer 3000** - program for banana farm in game "Banana"
 - **JSONomicon** - CLI tool for converting configuration files to JSON with syntax error detection
 - **Snosyashka** - A Python script for automatically sending email complaints to Telegram support about abusive users, groups, or channels
+- **VK Video Downloader** - Python program that allows you to download videos from VK Video and VK Clips without watermarks
 
 ### **Contacts**
 - [Email](mr.drk.knght@gmail.com)
