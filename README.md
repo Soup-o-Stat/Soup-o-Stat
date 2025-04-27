@@ -2,7 +2,7 @@
 
 ![](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/epic_gif.gif)
 
-### About Me:
+## About Me:
 - **Who am I?**: My name is Michael, I'm 19 years old, and I live in Moscow. I study at RTU MIREA and have worked as a programmer and head of Application Development Department at SNO "STUDIO INOVA."
 - **What I do**: I create small programs for games, jokes, and more. I also develop games and mods.
 - **Languages I've worked with**: I have experience with Python, C++, Java, GDScript, GML, and SQL. Currently, I'm learning 1C, Rust, and Lua.
@@ -49,13 +49,13 @@
 - **Snosyashka** - A Python script for automatically sending email complaints to Telegram support about abusive users, groups, or channels
 - **VK Video Downloader** - Python program that allows you to download videos from VK Video and VK Clips without watermarks
 
-### **Contacts**
+## **Contacts**
 - [Email](mr.drk.knght@gmail.com)
 - [X (Twitter)](https://x.com/soup_o_stat) (I don't think I'll read your message there)
 - [Bluesky](https://bsky.app/profile/soupostat.bsky.social)
 
 ---
-### **My Achievements**
+## **My Achievements**
 - **Patent for an interactive race-style educational economics game**: [click](https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=14CEFEEF-A8D2-4F83-9308-FECBAE526898)
 - **Gratitude from RTU MIREA for developing the game "Economic Biathlon"**: [click](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/gratitude.pdf)
 - **VKRuM 2024 Gamejam winner's certificate from VK Play, RuStore, VK Education, MIREA (4th place)**: [click](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/%D0%A1%D0%95%D0%A0%D0%A2%D0%98%D0%A4%D0%98%D0%9A%D0%90%D0%A2-11.png)
