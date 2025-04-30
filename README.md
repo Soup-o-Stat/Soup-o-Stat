@@ -1,6 +1,6 @@
 # Hi there! I'm Soup-o-Stat: a Programmer, Game Developer, and Modder
 
-![](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/epic_gif.gif)
+![](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/logo_gif.gif)
 
 ## About Me:
 - **Who am I?**: My name is Michael, I'm 19 years old, and I live in Moscow. I study at RTU MIREA and have worked as a programmer and head of Application Development Department at SNO "STUDIO INOVA."
