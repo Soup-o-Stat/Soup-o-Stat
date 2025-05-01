@@ -62,3 +62,7 @@
 - **Gratitude from RTU MIREA for developing the game "Economic Biathlon"**: [click](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/gratitude.pdf)
 - **VKRuM 2024 Gamejam winner's certificate from VK Play, RuStore, VK Education, MIREA (4th place)**: [click](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/%D0%A1%D0%95%D0%A0%D0%A2%D0%98%D0%A4%D0%98%D0%9A%D0%90%D0%A2-11.png)
 - **MPN GUI Workshop Uploader in the official modding documentation of MADNESS: Project Nexus**: [click](https://docs.google.com/document/d/1fgcDNarKoSe3I8CwaciqVxovZZJQlNQwTRUWRmvslN4/edit?tab=t.0)
+
+---
+## **Support me!**
+If you want to support me, you can [donate](https://www.donationalerts.com/r/soup_o_stat) some of your gold to me!
