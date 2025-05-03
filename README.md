@@ -52,7 +52,7 @@
 - **VK Video Downloader** - Python program that allows you to download videos from VK Video and VK Clips without watermarks
 
 ## **Contacts**
-- [Email](mr.drk.knght@gmail.com)
+- Email - mr.drk.knght@gmail.com
 - [X (Twitter)](https://x.com/soup_o_stat) (I don't think I'll read your message there)
 - [Bluesky](https://bsky.app/profile/soupostat.bsky.social)
 
