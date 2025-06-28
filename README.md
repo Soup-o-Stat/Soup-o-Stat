@@ -56,7 +56,7 @@
 
 ## **Contacts**
 - Email - mr.drk.knght@gmail.com
-- [X (Twitter)](https://x.com/soup_o_stat) (I don't think I'll read your message there)
+- [X (Twitter)](https://x.com/soup_o_stat)
 - [Bluesky](https://bsky.app/profile/soupostat.bsky.social)
 
 ---
