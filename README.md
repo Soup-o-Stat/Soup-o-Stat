@@ -5,7 +5,6 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Soup-o-Stat)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soup-o-Stat&langs_count=8)
 
 ## About Me:
 - **Who am I?**: My name is Michael, I'm 19 years old, and I live in Moscow. I study at RTU MIREA and have worked as a programmer and head of Application Development Department at SNO "STUDIO INOVA."
