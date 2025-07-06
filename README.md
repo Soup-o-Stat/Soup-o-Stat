@@ -22,7 +22,7 @@
 ## **Games**
 - **Life as Student MEMREA**: This is a game about a PTU MEMREA student who gets into all sorts of weird scrapes. I worked on Life as a Student MEMREA as a programmer and gamedesigner. At the moment, the project has been canceled due to legal shit
 - **Economic Biathlon**: I worked on this game as a programmer (I even managed to work as a project manager). I am not working with this project at the moment
-- **Symphony of Destruction**: I worked on this project as a programmer and sounddesigner as part of a gamejam from VK Play, RuStore, VK Education and MIREA. This project took the 4th place. You can try it on [Itchio](https://rekuiemuu.itch.io/symphony-of-destruction)
+- **Symphony of Destruction DEMO**: I worked on this project as a programmer and sounddesigner as part of a gamejam from VK Play, RuStore, VK Education and MIREA. This project took the 4th place. You can try it on [Itchio](https://rekuiemuu.itch.io/symphony-of-destruction)
 - **Screen Duck**: With this program, you can now have a real digital duck living on your desktop! It’s available for download on [itch.io](https://soup-o-stat.itch.io/screen-duck), and you can check out the source code [here](https://github.com/Soup-o-Stat/Screen-Duck)
 - **Add More**: Web horror game where your only escape depends on one simple, terrifying rule: you must add more. Created for [Mini Jame Gam #41](https://itch.io/jam/mini-jame-gam-41) and took 5th place. You can try it on [Itchio](https://soup-o-stat.itch.io/add-more)
 - **Economic Biathlon Remastered (or just Economic Biathlon)**: This is an educational game for students, schoolboys and other smart people. You can try demo on [itch.io](https://soup-o-stat.itch.io/economic-biathlon-remastered)
