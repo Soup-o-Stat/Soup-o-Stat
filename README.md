@@ -27,6 +27,7 @@
 - **Add More**: Web horror game where your only escape depends on one simple, terrifying rule: you must add more. Created for [Mini Jame Gam #41](https://itch.io/jam/mini-jame-gam-41) and took 5th place. You can try it on [Itchio](https://soup-o-stat.itch.io/add-more)
 - **Economic Biathlon Remastered (or just Economic Biathlon)**: This is an educational game for students, schoolboys and other smart people. You can try demo on [itch.io](https://soup-o-stat.itch.io/economic-biathlon-remastered) and add it to wishlist on [VK Play](https://vkplay.ru/play/game/economic-biathlon)
 - **You Are Doxxed B*tch!**: Horror game about doxxing. You can download it on [Itchio](https://soup-o-stat.itch.io/yadb)
+- **Last Object She Touched**: a psychological glitch horror game about memory, grief, and repetition. You can download it on [Itchio](https://soup-o-stat.itch.io/last-object-she-touched)
 
 ## **Mods**
 ### **Project Zomboid**
