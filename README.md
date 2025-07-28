@@ -73,6 +73,5 @@
 ---
 ## **Support me!**
 If you want to support me, you can some of your gold to me!
-* Etherium address- 0xa65Be787001116c94e307743A3f50C0d179c3057
 * [Donation alerts](https://www.donationalerts.com/r/soup_o_stat)
 * [Steam trade](https://steamcommunity.com/tradeoffer/new/?partner=1117858389&token=pXjNPtAo)
