@@ -35,7 +35,7 @@
 ### **Project Zomboid**
 - [Undertale Guitar Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3059092239)
 - [Deltarune Guitar Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3116356160)
-- [Project Mondealy: Zomboid](https://steamcommunity.com/sharedfiles/filedetails/?id=3087362123)
+- [Project Mondealy: Zomboid (hidden)](https://steamcommunity.com/sharedfiles/filedetails/?id=3087362123)
 - [Cut the Rope Death Music](https://steamcommunity.com/sharedfiles/filedetails/?id=3065438321)
 - [Kino on Guitar Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3127569762)
 ### **Mondealy**
@@ -65,11 +65,12 @@
 
 ---
 ## **My Achievements**
-- **Patent for an interactive race-style educational economics game**: [click](https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=14CEFEEF-A8D2-4F83-9308-FECBAE526898)
-- **Patent for an Economic Biathlon**: [click](https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=83DF2B76-722C-4BCC-82CF-71D5C11A749B)
-- **Gratitude from RTU MIREA for developing the game "Economic Biathlon"**: [click](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/gratitude.pdf)
-- **VKRuM 2024 Gamejam winner's certificate from VK Play, RuStore, VK Education, MIREA (4th place)**: [click](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/%D0%A1%D0%95%D0%A0%D0%A2%D0%98%D0%A4%D0%98%D0%9A%D0%90%D0%A2-11.png)
-- **MPN GUI Workshop Uploader in the official modding documentation of MADNESS: Project Nexus**: [click](https://docs.google.com/document/d/1fgcDNarKoSe3I8CwaciqVxovZZJQlNQwTRUWRmvslN4/edit?tab=t.0)
+- [Patent for an interactive race-style educational economics game](https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=14CEFEEF-A8D2-4F83-9308-FECBAE526898)
+- [Patent for an Economic Biathlon**](https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=83DF2B76-722C-4BCC-82CF-71D5C11A749B)
+- [Gratitude from RTU MIREA for developing the game "Economic Biathlon"](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/gratitude.pdf)
+- [VKRuM 2024 Gamejam winner's certificate from VK Play, RuStore, VK Education, MIREA (4th place)](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/%D0%A1%D0%95%D0%A0%D0%A2%D0%98%D0%A4%D0%98%D0%9A%D0%90%D0%A2-11.png)
+- [MPN GUI Workshop Uploader in the official modding documentation of MADNESS: Project Nexus](https://docs.google.com/document/d/1fgcDNarKoSe3I8CwaciqVxovZZJQlNQwTRUWRmvslN4/edit?tab=t.0)
+- [1st place in jame gam 51](https://itch.io/jam/jame-gam-51/results)
 
 ---
 ## **Support me!**
