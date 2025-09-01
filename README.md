@@ -42,6 +42,7 @@
 - [Project Mondealy Zomboid](https://www.nexusmods.com/mondealy/mods/6)
 ### **The Binding of Isaac: Rebirth**
 - [Neonomi and Rockets Intro](https://steamcommunity.com/sharedfiles/filedetails/?id=3278955604)
+- [PVZ Mushroom](https://steamcommunity.com/sharedfiles/filedetails/?id=3557510024)
 ### **Half Life 2**
 - [Kikoriki Valve Intro!!!](https://steamcommunity.com/sharedfiles/filedetails/?id=3368442482)
 ### **MADNESS: Project Nexus**
