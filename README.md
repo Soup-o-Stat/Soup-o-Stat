@@ -5,7 +5,7 @@
 </p>
 
 ## About Me:
-- **Who am I?**: My name is Michael, I'm 19 years old, and I live in Moscow. I study at RTU MIREA and have worked as a programmer and head of Application Development Department at SNO "STUDIO INOVA."
+- **Who am I?**: My name is Michael, I'm 20 years old, and I live in Moscow. I study at RTU MIREA and have worked as a programmer and head of Application Development Department at SNO "STUDIO INOVA."
 - **What I do**: I create small programs for games, jokes, and more. I also develop games and mods.
 - **Languages I've worked with**: I have experience with Python, C++, Java, GDScript, GML, and SQL.
 ---
