@@ -58,10 +58,12 @@
 - **Snosyashka** - A Python script for automatically sending email complaints to Telegram support about abusive users, groups, or channels
 - **VK Video Downloader** - Python program that allows you to download videos from VK Video and VK Clips without watermarks
 
-## **Contacts**
+## **Contacts and social media**
 - Email - mr.drk.knght@gmail.com
 - [X (Twitter)](https://x.com/soup_o_stat)
 - [Bluesky](https://bsky.app/profile/soupostat.bsky.social)
+- [Itchio](https://soup-o-stat.itch.io/)
+- [Steam](https://steamcommunity.com/id/Soup-o-Stat/)
 
 ---
 ## **My Achievements**
