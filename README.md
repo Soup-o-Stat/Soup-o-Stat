@@ -70,6 +70,7 @@
 - [VKRuM 2024 Gamejam winner's certificate from VK Play, RuStore, VK Education, MIREA (4th place)](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/%D0%A1%D0%95%D0%A0%D0%A2%D0%98%D0%A4%D0%98%D0%9A%D0%90%D0%A2-11.png)
 - [MPN GUI Workshop Uploader in the official modding documentation of MADNESS: Project Nexus](https://docs.google.com/document/d/1fgcDNarKoSe3I8CwaciqVxovZZJQlNQwTRUWRmvslN4/edit?tab=t.0)
 - [1st place in jame gam 51](https://itch.io/jam/jame-gam-51/results)
+- [5th place in mini jame game 41](https://itch.io/jam/mini-jame-gam-41/rate/3449240))
 
 ---
 ## **Support me!**
