@@ -14,7 +14,7 @@
 ## Tools for games:
 
 - **MPN: GUI Workshop Uploader** - an utility for easily uploading and updating mods in Steam Workshop for [MADNESS: Project Nexus](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/). You can try it out on [itch.io](https://soup-o-stat.itch.io/mpn-gui-workshop-uploader) and check source code [here](https://github.com/Soup-o-Stat/MPN-GUI-Workshop-Uploader)
-- **WEBSAVING** - a tool designed to help players of [WEBFISHING](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/) easily synchronize their save files with a GitHub repository. You can check it out on [GitHub](https://github.com/Soup-o-Stat/WEBSAVING)
+- **WEBSAVING** - a tool designed to help players of [WEBFISHING](https://store.steampowered.com/app/3146520/WEBFISHING/) easily synchronize their save files with a GitHub repository. You can check it out on [GitHub](https://github.com/Soup-o-Stat/WEBSAVING)
 - **Mondealy Mod Installer** - an utility for easily installing mods for [Mondealy](https://store.steampowered.com/app/1620520/Mondealy/). You can check it out on [itch.io](https://soup-o-stat.itch.io/mondealy-mod-installer) and [Nexusmods](https://www.nexusmods.com/mondealy/mods/3)
 - **Banana Farmer 3000** - program for banana farm in game "Banana"
 - **Screen Duck**: With this program, you can now have a real digital duck living on your desktop! It’s available for download on [itch.io](https://soup-o-stat.itch.io/screen-duck), and you can check out the source code [here](https://github.com/Soup-o-Stat/Screen-Duck)
