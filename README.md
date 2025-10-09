@@ -78,5 +78,5 @@
 ---
 ## **Support me!**
 If you want to support me, you can donate me!
-* [Donation alerts](https://www.donationalerts.com/r/soup_o_stat)
+* [Donation alerts](https://dalink.to/soup_o_stat)
 * [Steam trade](https://steamcommunity.com/tradeoffer/new/?partner=1117858389&token=pXjNPtAo)
