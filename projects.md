@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://soup-o-stat.itch.io/last-object-she-touched" target="_blank">
-    <img src="https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/projects/yadb.png" width="300" alt="">
+    <img src="https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/projects/lost.png" width="300" alt="">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://soup-o-stat.itch.io/yadb" target="_blank">
