@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <b>Game 1</b> • <b>Game 2</b> • <b>Game 3</b>
+  <b>[Return](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/README.md)</b>
 </p>
