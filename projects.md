@@ -16,7 +16,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://soup-o-stat.itch.io/burger-maker" target="_blank">
-    <img src="https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/projects/mpn_gui.png" width="300" alt="">
+    <img src="https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/projects/bm.png" width="300" alt="">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://soup-o-stat.itch.io/mpn-gui-workshop-uploader" target="_blank">
