@@ -11,7 +11,3 @@
     <img src="https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/projects/mmi.png" width="300" alt="Game 3">
   </a>
 </p>
-
-<p align="center">
-  <b>[Return](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/README.md)</b>
-</p>
