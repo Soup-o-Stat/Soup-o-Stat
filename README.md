@@ -13,20 +13,21 @@
 
 ## Tools for games:
 
-- **MPN: GUI Workshop Uploader** - an utility for easily uploading and updating mods in Steam Workshop for [MADNESS: Project Nexus](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/). You can try it out on [itch.io](https://soup-o-stat.itch.io/mpn-gui-workshop-uploader) and check source code [here](https://github.com/Soup-o-Stat/MPN-GUI-Workshop-Uploader)
-- **WEBSAVING** - a tool designed to help players of [WEBFISHING](https://store.steampowered.com/app/3146520/WEBFISHING/) easily synchronize their save files with a GitHub repository. You can check it out on [GitHub](https://github.com/Soup-o-Stat/WEBSAVING)
-- **Mondealy Mod Installer** - an utility for easily installing mods for [Mondealy](https://store.steampowered.com/app/1620520/Mondealy/). You can check it out on [itch.io](https://soup-o-stat.itch.io/mondealy-mod-installer) and [Nexusmods](https://www.nexusmods.com/mondealy/mods/3)
-- **Banana Farmer 3000** - program for banana farm in game "Banana"
-- **Screen Duck**: With this program, you can now have a real digital duck living on your desktop! It’s available for download on [itch.io](https://soup-o-stat.itch.io/screen-duck), and you can check out the source code [here](https://github.com/Soup-o-Stat/Screen-Duck)
+- **[MPN: GUI Workshop Uploader](https://soup-o-stat.itch.io/mpn-gui-workshop-uploader)** - an utility for easily uploading and updating mods in Steam Workshop for [MADNESS: Project Nexus](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/). [Source Code](https://github.com/Soup-o-Stat/MPN-GUI-Workshop-Uploader).
+- **[WEBSAVING](https://github.com/Soup-o-Stat/WEBSAVING)** - a tool designed to help players of [WEBFISHING](https://store.steampowered.com/app/3146520/WEBFISHING/) easily synchronize their save files with a GitHub repository.
+- **[Mondealy Mod Installer](https://soup-o-stat.itch.io/mondealy-mod-installer)** - an utility for easily installing mods for [Mondealy](https://store.steampowered.com/app/1620520/Mondealy/).
+- **[Banana Farmer 3000](https://github.com/Soup-o-Stat/Banana-Farmer-3000)** - program for banana farm in game "Banana"
+- **[Screen Duck](https://soup-o-stat.itch.io/screen-duck)**: With this program, you can now have a real digital duck living on your desktop! [Source code](https://github.com/Soup-o-Stat/Screen-Duck)
 
 ## **Games**
 ### Published games
-- **Symphony of Destruction DEMO**: I worked on this project as a programmer and sounddesigner as part of a gamejam from VK Play, RuStore, VK Education and MIREA. This project took the 4th place. You can try it on [Itchio](https://rekuiemuu.itch.io/symphony-of-destruction)
-- **Add More**: Web horror game where your only escape depends on one simple, terrifying rule: you must add more. Created for [Mini Jame Gam #41](https://itch.io/jam/mini-jame-gam-41) and took 5th place. You can try it on [Itchio](https://soup-o-stat.itch.io/add-more)
-- **Economic Biathlon Remastered (or just Economic Biathlon)**: This is an educational game for students, schoolboys and other smart people. You can try demo on [itch.io](https://soup-o-stat.itch.io/economic-biathlon-remastered) and add it to wishlist on [VK Play](https://vkplay.ru/play/game/economic-biathlon)
-- **You Are Doxxed B*tch!**: Horror game about doxxing. You can download it on [Itchio](https://soup-o-stat.itch.io/yadb)
-- **Last Object She Touched**: a psychological glitch horror game about memory, grief, and repetition. You can download it on [Itchio](https://soup-o-stat.itch.io/last-object-she-touched)
-
+- **[Symphony of Destruction DEMO](https://rekuiemuu.itch.io/symphony-of-destruction)**: I worked on this project as a programmer and sounddesigner as part of a gamejam from VK Play, RuStore, VK Education and MIREA. This project took the 4th place.
+- **[Add More](https://soup-o-stat.itch.io/add-more)**: Web horror game where your only escape depends on one simple, terrifying rule: you must add more. Created for [Mini Jame Gam #41](https://itch.io/jam/mini-jame-gam-41) and took 5th place.
+- **[Economic Biathlon DEMO](https://soup-o-stat.itch.io/economic-biathlon-remastered)**: This is an educational game for students, schoolboys and other smart people. You add full game to wishlist on [VK Play](https://vkplay.ru/play/game/economic-biathlon)
+- **[You Are Doxxed B*tch!](https://soup-o-stat.itch.io/yadb)**: Horror game about doxxing.
+- **[Last Object She Touched](https://soup-o-stat.itch.io/last-object-she-touched)**: a psychological glitch horror game about memory, grief, and repetition.
+- **[s.p.l.i.t russifier](https://gamejolt.com/games/split_rus/1030238)**: a russifier for game [s.p.l.i.t]() which was evaluated by Mike Klubnika
+  
 ### Canceled/deleted games
 - **Life as Student MEMREA**: This is a game about a PTU MEMREA student who gets into all sorts of weird scrapes. I worked on Life as a Student MEMREA as a programmer and gamedesigner. At the moment, the project has been canceled due to legal shit
 - **Economic Biathlon (INOVA VERSION)**: I worked on this game as a programmer (I even managed to work as a project manager). I am not working with this project at the moment
@@ -76,5 +77,5 @@
 ---
 ## **Support me!**
 If you want to support me, you can donate me!
-* [Donation alerts](https://dalink.to/soup_o_stat)
+* [Dalink](https://dalink.to/soup_o_stat)
 * [Steam trade](https://steamcommunity.com/tradeoffer/new/?partner=1117858389&token=pXjNPtAo)
