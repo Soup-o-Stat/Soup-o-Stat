@@ -5,7 +5,7 @@
 </p>
 
 ## About Me:
-- **Who am I?**: My name is Michael, I'm 20 years old, and I live in Moscow. I study at RTU MIREA and have worked as a programmer and head of Application Development Department at SNO "STUDIO INOVA." Now working as GDS and PHP programmer at Fearless Economists and GDS programmer at LazyDesman.
+- **Who am I?**: My name is Michael, I'm 20 years old, and I live in Moscow. I study at RTU MIREA and have worked as a programmer and head of Application Development Department at SNO "STUDIO INOVA." Now working as GDS programmer and publisher at Fearless Economists and GDS programmer at LazyDesman.
 - **What I do**: I create small programs for games, jokes, and more. I also develop games and mods.
 - **Languages I've worked with**: I have experience with Python, C++, Java, GDScript, GML, PHP, and SQL.
 - **Gamedev (or not) software i use**: Godot, Blender, MagicaVoxel, Aseprite, Tilesetter, Audacity
@@ -23,7 +23,7 @@
 ### Published games
 - **[Symphony of Destruction DEMO](https://rekuiemuu.itch.io/symphony-of-destruction)**: I worked on this project as a programmer and sounddesigner as part of a gamejam from VK Play, RuStore, VK Education and MIREA. This project took the 4th place.
 - **[Add More](https://soup-o-stat.itch.io/add-more)**: Web horror game where your only escape depends on one simple, terrifying rule: you must add more. Created for [Mini Jame Gam #41](https://itch.io/jam/mini-jame-gam-41) and took 5th place.
-- **[Economic Biathlon DEMO](https://soup-o-stat.itch.io/economic-biathlon-remastered)**: This is an educational game for students, schoolboys and other smart people. You add full game to wishlist on [VK Play](https://vkplay.ru/play/game/economic-biathlon)
+- **[Economic Biathlon DEMO](https://soup-o-stat.itch.io/economic-biathlon-remastered)**: This is an educational game for students, schoolboys and other smart people. You add full game to wishlist on [VK Play](https://vkplay.ru/play/game/economic-biathlon) or [Steam]()
 - **[You Are Doxxed B*tch!](https://soup-o-stat.itch.io/yadb)**: Horror game about doxxing.
 - **[Last Object She Touched](https://soup-o-stat.itch.io/last-object-she-touched)**: a psychological glitch horror game about memory, grief, and repetition.
 - **[s.p.l.i.t russifier](https://gamejolt.com/games/split_rus/1030238)**: a russifier for game [s.p.l.i.t](https://store.steampowered.com/app/3684610/split/) which was evaluated by Mike Klubnika
