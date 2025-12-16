@@ -27,7 +27,7 @@
 - **[You Are Doxxed B*tch!](https://soup-o-stat.itch.io/yadb)**: Horror game about doxxing.
 - **[Last Object She Touched](https://soup-o-stat.itch.io/last-object-she-touched)**: a psychological glitch horror game about memory, grief, and repetition.
 - **[s.p.l.i.t russifier](https://gamejolt.com/games/split_rus/1030238)**: a russifier for game [s.p.l.i.t](https://store.steampowered.com/app/3684610/split/) which was evaluated by Mike Klubnika
-- **[LOOP](https://soup-o-stat.itch.io/loop) - a short horror game about despair and alcohol**
+- **[LOOP](https://soup-o-stat.itch.io/loop): a short horror game about despair and alcohol**
   
 ### Canceled/deleted games
 - **Life as Student MEMREA**: This is a game about a PTU MEMREA student who gets into all sorts of weird scrapes. I worked on Life as a Student MEMREA as a programmer and gamedesigner. At the moment, the project has been canceled due to legal shit
