@@ -30,7 +30,7 @@
 - **[LOOP](https://soup-o-stat.itch.io/loop): a short horror game about despair and alcohol**
 
 ### Ports
--**[SYWAR Cheap Console Port](https://github.com/Soup-o-Stat/SYWAR-cheap-console-port)**: a short game created by wriks
+- **[SYWAR Cheap Console Port](https://github.com/Soup-o-Stat/SYWAR-cheap-console-port)**: a short game created by wriks
 
 ### Canceled/deleted games
 - **Life as Student MEMREA**: This is a game about a PTU MEMREA student who gets into all sorts of weird scrapes. I worked on Life as a Student MEMREA as a programmer and gamedesigner. At the moment, the project has been canceled due to legal shit
