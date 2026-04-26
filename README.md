@@ -28,7 +28,7 @@
 - **[You Are Doxxed B*tch!](https://soup-o-stat.itch.io/yadb)**: Horror game about doxxing.
 - **[Last Object She Touched](https://soup-o-stat.itch.io/last-object-she-touched)**: a psychological glitch horror game about memory, grief, and repetition.
 - **[s.p.l.i.t russifier](https://gamejolt.com/games/split_rus/1030238)**: a russifier for game [s.p.l.i.t](https://store.steampowered.com/app/3684610/split/) which was evaluated by Mike Klubnika
-- **[LOOP](https://soup-o-stat.itch.io/loop): a short horror game about despair and alcohol**
+- **[LOOP](https://soup-o-stat.itch.io/loop)**: a short horror game about despair and alcohol
 
 ### Ports
 - **[SYWAR Cheap Console Port](https://github.com/Soup-o-Stat/SYWAR-cheap-console-port)**: a short game created by wriks
