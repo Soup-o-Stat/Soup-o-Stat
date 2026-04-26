@@ -11,7 +11,9 @@
 - **Gamedev (or not) software i use**: Godot, Blender, MagicaVoxel, Aseprite, Tilesetter, Audacity
 ---
 
-## Tools for games:
+## I made:
+
+### Tools for games:
 
 - **[MPN: GUI Workshop Uploader](https://soup-o-stat.itch.io/mpn-gui-workshop-uploader)** - an utility for easily uploading and updating mods in Steam Workshop for [MADNESS: Project Nexus](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/). [Source Code](https://github.com/Soup-o-Stat/MPN-GUI-Workshop-Uploader).
 - **[WEBSAVING](https://github.com/Soup-o-Stat/WEBSAVING)** - a tool designed to help players of [WEBFISHING](https://store.steampowered.com/app/3146520/WEBFISHING/) easily synchronize their save files with a GitHub repository.
@@ -19,8 +21,7 @@
 - **[Banana Farmer 3000](https://github.com/Soup-o-Stat/Banana-Farmer-3000)** - program for banana farm in game "Banana"
 - **[Screen Duck](https://soup-o-stat.itch.io/screen-duck)**: With this program, you can now have a real digital duck living on your desktop! [Source code](https://github.com/Soup-o-Stat/Screen-Duck)
 
-## **Games**
-### Published games
+### **Games**
 - **[Symphony of Destruction DEMO](https://rekuiemuu.itch.io/symphony-of-destruction)**: I worked on this project as a programmer and sounddesigner as part of a gamejam from VK Play, RuStore, VK Education and MIREA. This project took the 4th place.
 - **[Add More](https://soup-o-stat.itch.io/add-more)**: Web horror game where your only escape depends on one simple, terrifying rule: you must add more. Created for [Mini Jame Gam #41](https://itch.io/jam/mini-jame-gam-41) and took 5th place.
 - **[Economic Biathlon DEMO](https://soup-o-stat.itch.io/economic-biathlon-remastered)**: This is an educational game for students, schoolboys and other smart people. You add full game to wishlist on [VK Play](https://vkplay.ru/play/game/economic-biathlon) or [Steam]()
@@ -32,9 +33,8 @@
 ### Ports
 - **[SYWAR Cheap Console Port](https://github.com/Soup-o-Stat/SYWAR-cheap-console-port)**: a short game created by wriks
 
-### Canceled/deleted games
-- **Life as Student MEMREA**: This is a game about a PTU MEMREA student who gets into all sorts of weird scrapes. I worked on Life as a Student MEMREA as a programmer and gamedesigner. At the moment, the project has been canceled due to legal shit
-- **Economic Biathlon (INOVA VERSION)**: I worked on this game as a programmer (I even managed to work as a project manager). I am not working with this project at the moment
+### Other gamedev stuff
+- **[Triplanar blood shader for godot](https://godotshaders.com/shader/triplanar-blood-shader/)**
 
 ## **Mods**
 ### **Project Zomboid**
