@@ -21,7 +21,7 @@
 - **[Banana Farmer 3000](https://github.com/Soup-o-Stat/Banana-Farmer-3000)** - program for banana farm in game "Banana"
 - **[Screen Duck](https://soup-o-stat.itch.io/screen-duck)**: With this program, you can now have a real digital duck living on your desktop! [Source code](https://github.com/Soup-o-Stat/Screen-Duck)
 
-### **Games**
+### **Games:**
 - **[Symphony of Destruction DEMO](https://rekuiemuu.itch.io/symphony-of-destruction)**: I worked on this project as a programmer and sounddesigner as part of a gamejam from VK Play, RuStore, VK Education and MIREA. This project took the 4th place.
 - **[Add More](https://soup-o-stat.itch.io/add-more)**: Web horror game where your only escape depends on one simple, terrifying rule: you must add more. Created for [Mini Jame Gam #41](https://itch.io/jam/mini-jame-gam-41) and took 5th place.
 - **[Economic Biathlon DEMO](https://soup-o-stat.itch.io/economic-biathlon-remastered)**: This is an educational game for students, schoolboys and other smart people. You add full game to wishlist on [VK Play](https://vkplay.ru/play/game/economic-biathlon) or [Steam]()
@@ -29,11 +29,13 @@
 - **[Last Object She Touched](https://soup-o-stat.itch.io/last-object-she-touched)**: a psychological glitch horror game about memory, grief, and repetition.
 - **[s.p.l.i.t russifier](https://gamejolt.com/games/split_rus/1030238)**: a russifier for game [s.p.l.i.t](https://store.steampowered.com/app/3684610/split/) which was evaluated by Mike Klubnika
 - **[LOOP](https://soup-o-stat.itch.io/loop)**: a short horror game about despair and alcohol
+- **[ROMASHKA](https://soup-o-stat.itch.io/romashka)**: a short horror game about a home farmer
+- **[This Flash Contains Horrors](https://store.steampowered.com/app/4443400/This_Flash_Contains_Horrors/)**: a psychological horror collection, which includes 5 short games
 
-### Ports
+### **Ports:**
 - **[SYWAR Cheap Console Port](https://github.com/Soup-o-Stat/SYWAR-cheap-console-port)**: a short game created by wriks
 
-### Other gamedev stuff
+### **Other gamedev stuff:**
 - **[Triplanar blood shader for godot](https://godotshaders.com/shader/triplanar-blood-shader/)**
 
 ## **Mods**
