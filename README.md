@@ -30,10 +30,12 @@
 - **[s.p.l.i.t russifier](https://gamejolt.com/games/split_rus/1030238)**
 - **[LOOP](https://soup-o-stat.itch.io/loop)**
 - **[ROMASHKA](https://soup-o-stat.itch.io/romashka)**
+- **[Trusted Friend](https://soup-o-stat.itch.io/trusted-friend)**
 - **[This Flash Contains Horrors](https://store.steampowered.com/app/4443400/This_Flash_Contains_Horrors/)**
 
 ### **Ports:**
 - **[SYWAR Cheap Console Port](https://github.com/Soup-o-Stat/SYWAR-cheap-console-port)**
+- **[GIRLBALLS Cheap Console Port](https://github.com/Soup-o-Stat/GIRLBALLS-Cheap-Console-Port)**
 
 ### **Other gamedev stuff:**
 - **[Triplanar blood shader for godot](https://godotshaders.com/shader/triplanar-blood-shader/)**
