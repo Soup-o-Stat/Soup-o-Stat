@@ -15,11 +15,11 @@
 
 ### Tools for games:
 
-- **[MPN: GUI Workshop Uploader](https://soup-o-stat.itch.io/mpn-gui-workshop-uploader)** - an utility for easily uploading and updating mods in Steam Workshop for [MADNESS: Project Nexus](https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/). [Source Code](https://github.com/Soup-o-Stat/MPN-GUI-Workshop-Uploader).
-- **[WEBSAVING](https://github.com/Soup-o-Stat/WEBSAVING)** - a tool designed to help players of [WEBFISHING](https://store.steampowered.com/app/3146520/WEBFISHING/) easily synchronize their save files with a GitHub repository.
-- **[Mondealy Mod Installer](https://soup-o-stat.itch.io/mondealy-mod-installer)** - an utility for easily installing mods for [Mondealy](https://store.steampowered.com/app/1620520/Mondealy/).
-- **[Banana Farmer 3000](https://github.com/Soup-o-Stat/Banana-Farmer-3000)** - program for banana farm in game "Banana"
-- **[Screen Duck](https://soup-o-stat.itch.io/screen-duck)**: With this program, you can now have a real digital duck living on your desktop! [Source code](https://github.com/Soup-o-Stat/Screen-Duck)
+- **[MPN: GUI Workshop Uploader](https://soup-o-stat.itch.io/mpn-gui-workshop-uploader)**
+- **[WEBSAVING](https://github.com/Soup-o-Stat/WEBSAVING)**
+- **[Mondealy Mod Installer](https://soup-o-stat.itch.io/mondealy-mod-installer)**
+- **[Banana Farmer 3000](https://github.com/Soup-o-Stat/Banana-Farmer-3000)**
+- **[Screen Duck](https://soup-o-stat.itch.io/screen-duck)**
 
 ### **Games:**
 - **[Symphony of Destruction DEMO](https://rekuiemuu.itch.io/symphony-of-destruction)**
