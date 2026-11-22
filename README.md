@@ -23,7 +23,6 @@
 - **[Economic Biathlon](https://soup-o-stat.itch.io/economic-biathlon-remastered)**
 - **[You Are Doxxed B*tch!](https://soup-o-stat.itch.io/yadb)**
 - **[Last Object She Touched](https://soup-o-stat.itch.io/last-object-she-touched)**
-- **[s.p.l.i.t russifier](https://gamejolt.com/games/split_rus/1030238)**
 - **[LOOP](https://soup-o-stat.itch.io/loop)**
 - **[ROMASHKA](https://soup-o-stat.itch.io/romashka)**
 - **[Trusted Friend](https://soup-o-stat.itch.io/trusted-friend)**
@@ -33,8 +32,9 @@
 - **[SYWAR Cheap Console Port](https://github.com/Soup-o-Stat/SYWAR-cheap-console-port)**
 - **[GIRLBALLS Cheap Console Port](https://github.com/Soup-o-Stat/GIRLBALLS-Cheap-Console-Port)**
 
-### **Other gamedev stuff:**
+### **Other stuff:**
 - **[Triplanar blood shader for godot](https://godotshaders.com/shader/triplanar-blood-shader/)**
+- **[s.p.l.i.t russifier](https://gamejolt.com/games/split_rus/1030238)**
 
 ## **Mods**
 ### **Project Zomboid**
@@ -55,17 +55,11 @@
 ### **MADNESS: Project Nexus**
 - [Madness Combat 12 OST in Main Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=3428043862)
 
-## **Non game projects that you can find in my repositories**
-- **Bluesky JSON Parser** - CLI tool to fetch and display Bluesky user profiles 
-- **Winamp-Fixer** - Fix tool for Winamp
-- **LVM IntAss** - Assembler and Interpreter for a learning virtual machine (LVM)
-- **JetBrains Reset Tool** - JetBrains trial reset tool on python
-- **JSONomicon** - CLI tool for converting configuration files to JSON with syntax error detection
-- **Snosyashka** - A Python script for automatically sending email complaints to Telegram support about abusive users, groups, or channels
-- **VK Video Downloader** - Python program that allows you to download videos from VK Video and VK Clips without watermarks
+**Non game projects that you can find in my repositories**
 
 ## **Contacts**
 - Email - mr(dot)drk(dot)knght(at)gmail(dot)com
+- X/Twitter - https://x.com/soup_o_stat
 ---
 ## **My Achievements**
 - [Patent for an interactive race-style educational economics game](https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=14CEFEEF-A8D2-4F83-9308-FECBAE526898)
@@ -74,9 +68,3 @@
 - [VKRuM 2024 Gamejam winner's certificate from VK Play, RuStore, VK Education, MIREA (4th place)](https://github.com/Soup-o-Stat/Soup-o-Stat/blob/main/%D0%A1%D0%95%D0%A0%D0%A2%D0%98%D0%A4%D0%98%D0%9A%D0%90%D0%A2-11.png)
 - [MPN GUI Workshop Uploader in the official modding documentation of MADNESS: Project Nexus](https://docs.google.com/document/d/1fgcDNarKoSe3I8CwaciqVxovZZJQlNQwTRUWRmvslN4/edit?tab=t.0)
 - [1st place in jame gam 51](https://itch.io/jam/jame-gam-51/results)
-
----
-## **Support me!**
-If you want to support me, you can donate me!
-* [Dalink](https://dalink.to/soup_o_stat)
-* [Steam trade](https://steamcommunity.com/tradeoffer/new/?partner=1117858389&token=pXjNPtAo)
