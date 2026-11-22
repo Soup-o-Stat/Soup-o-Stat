@@ -19,9 +19,9 @@
 
 ### **Games:**
 - **[Symphony of Destruction DEMO](https://rekuiemuu.itch.io/symphony-of-destruction)**
-- **[Add More](https://soup-o-stat.itch.io/add-more)**
-- **[Economic Biathlon](https://soup-o-stat.itch.io/economic-biathlon-remastered)**
-- **[You Are Doxxed B*tch!](https://soup-o-stat.itch.io/yadb)**
+- **[Add More](https://soup-o-stat.com/projects/add_more/)**
+- **[Economic Biathlon](https://store.steampowered.com/app/4254600/Economic_Biathlon/)**
+- **[You Are Doxxed B*tch!](https://soup-o-stat.com/projects/yadb/)**
 - **[Last Object She Touched](https://soup-o-stat.itch.io/last-object-she-touched)**
 - **[LOOP](https://soup-o-stat.itch.io/loop)**
 - **[ROMASHKA](https://soup-o-stat.itch.io/romashka)**
