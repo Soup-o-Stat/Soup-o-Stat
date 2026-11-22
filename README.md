@@ -55,7 +55,7 @@
 ### **MADNESS: Project Nexus**
 - [Madness Combat 12 OST in Main Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=3428043862)
 
-**Non game projects that you can find in my repositories**
+**Not gamedev projects you can find in my [repositories](https://github.com/Soup-o-Stat?tab=repositories)**
 
 ## **Contacts**
 - Email - mr(dot)drk(dot)knght(at)gmail(dot)com
